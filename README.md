@@ -10,4 +10,4 @@
 
 **Stack**
 
-Ruby · Rails · TypeScript · React · PHP · WordPress · WooCommerce · Python · PostgreSQL
+Ruby · Rails · TypeScript · React · PHP · WordPress · WooCommerce · Python
